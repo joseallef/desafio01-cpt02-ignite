@@ -22,3 +22,8 @@
     ou
   - npm install
   - yarn start
+  - yarn server
+ 
+ ## Como rodar os testes
+ 
+ - yarn test
