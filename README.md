@@ -19,7 +19,7 @@
   
   - cd desafio01-cpt02-ignite
   - yarn
-    ou
+  - ou
   - npm install
   - yarn start
   - yarn server
